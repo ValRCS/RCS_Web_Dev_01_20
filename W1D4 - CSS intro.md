@@ -17,6 +17,8 @@
 * https://learn.freecodecamp.org/responsive-web-design/basic-css
 * https://www.w3schools.com/Css/
 
+State of CSS technologies 2019
+* https://2019.stateofcss.com/technologies/
 
 ### Homework (Due Monday )
 
