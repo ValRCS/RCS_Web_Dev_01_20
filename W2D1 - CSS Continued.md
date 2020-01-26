@@ -1,3 +1,6 @@
+## Resuming with Fixed positioning Jan 28
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/lock-an-element-to-the-browser-window-with-fixed-positioning
+
 ## Continued z-index
 
 * https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-the-position-of-overlapping-elements-with-the-z-index-property
