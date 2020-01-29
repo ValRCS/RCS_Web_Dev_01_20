@@ -10,6 +10,9 @@
 # Tutorial explaining the gap concept
 * https://medium.com/@js_tut/css-grid-tutorial-filling-in-the-gaps-c596c9534611
 
+# Rachel Andrews series at Smashing Magazine explaining CSS Grid
+* https://www.smashingmagazine.com/2020/01/understanding-css-grid-container/
+
 ## Video by Mozilla Designer Explaining how CSS Grid differs from other layout systems
 * https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1
 
