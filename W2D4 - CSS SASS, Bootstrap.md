@@ -22,6 +22,11 @@
 ## Examples
 * https://getbootstrap.com/docs/4.1/examples/
 
+## Holy Grail with Bootstrap
+
+* https://www.codeply.com/go/licdodtBCO/bootstrap-4-holy-grail
+* https://github.com/merrymaker/bs4-holygrail-layout
+
 ## What is the point of CSS frameworks?
 
 * https://css-tricks.com/what-are-the-benefits-of-using-a-css-framework/ (old but still relevant)
