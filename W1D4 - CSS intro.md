@@ -46,3 +46,7 @@ Build a simple index.html page with a tribute to your favorite person/being/anim
 https://validator.w3.org
 
 ### Creata a new project for your tribute page on Github and host the page there.
+
+
+## How CSS was in the old days
+* https://eev.ee/blog/2020/02/01/old-css-new-css/
