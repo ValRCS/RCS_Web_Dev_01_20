@@ -32,3 +32,7 @@
 
 ## Callbacks
 * https://zellwk.com/blog/callbacks/
+
+## Flow Charts of Control Structures (language agnostic)
+
+* https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/
