@@ -33,3 +33,6 @@ Some free
 ## REST API
 
 * https://webdamn.com/create-simple-rest-api-with-php-mysql/
+
+## Template Libraries
+* https://ourcodeworld.com/articles/read/847/top-7-best-open-source-php-template-engines
