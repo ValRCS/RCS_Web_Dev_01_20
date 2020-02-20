@@ -16,6 +16,9 @@
 * https://www.quora.com/What-is-are-the-best-practice-rules-in-an-MySQL-database-design-for-a-better-future
 * https://dzone.com/articles/20-database-design-best
 
+## Set Errors to on when developing!
+* https://phpdelusions.net/articles/error_reporting
+
 # PHP project file structure
 
 * https://phptherightway.com/#common_directory_structure
