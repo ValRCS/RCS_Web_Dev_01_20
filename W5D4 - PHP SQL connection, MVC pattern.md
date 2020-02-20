@@ -21,6 +21,7 @@
 
 # PHP project file structure
 
+* https://github.com/php-pds/skeleton - oficial recommendation
 * https://phptherightway.com/#common_directory_structure
 * https://docs.php.earth/faq/misc/structure/
 Alternative would be to place other PHP files deeper into your public folder but use htaccess to restrict acccess from outside
