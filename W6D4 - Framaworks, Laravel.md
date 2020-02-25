@@ -23,6 +23,9 @@ Some free
 
 * https://laracasts.com/
 
+### Laravel from scratch 
+* https://laracasts.com/series/laravel-6-from-scratch/episodes/1
+
 
 ## Wordpress Coding Standard
 * https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/
@@ -36,3 +39,10 @@ Some free
 
 ## Template Libraries
 * https://ourcodeworld.com/articles/read/847/top-7-best-open-source-php-template-engines
+
+## Laravel quick start Tutorials
+
+### Laravel official TODO app quick start (sadly no longer updated after 5.2)
+* https://laravel.com/docs/5.2/quickstart
+
+* https://www.techiediaries.com/php-laravel-crud-mysql-tutorial/ (updated for Laravel 6!)
