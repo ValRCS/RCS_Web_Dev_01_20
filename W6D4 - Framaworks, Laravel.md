@@ -23,6 +23,9 @@ Some free
 
 * https://laracasts.com/
 
+### Brush up on your OOP
+* https://laracasts.com/series/object-oriented-principles-in-php
+
 ### Laravel from scratch 
 * https://laracasts.com/series/laravel-6-from-scratch/episodes/1
 
