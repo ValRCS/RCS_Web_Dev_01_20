@@ -51,6 +51,10 @@ http://boringtechnology.club/
 * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (from 2002 but still basics are correct)
 * https://itusts.wordpress.com/2017/04/07/how-does-the-internet-work/
 
+## History of URL
+
+* https://blog.cloudflare.com/the-history-of-the-url/
+
 ## How HTTP  works
 HTTP - Hypertext Transfer Protocol. It's the communication protocol you use when you browse the web.
 * https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/
